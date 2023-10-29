@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "monografia-395718",
+  "private_key_id": "a639a547839440a6a09d1ac2870bdcd4f7586ab3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCU2YUgDkchQENE\naA2tx80vX8B6Uw/9Z5s+LiWn3PHfVPFoM7rBf7tLwU4OjOM+fmqrWCxE61FoNknd\nZqD1FrPhZiGz0ifEHle745pX+cxyHcAZ1L7P5TaKcdj2QwN5nSY72eFjzLD25q9J\nKQ9+nm7cIikyamcfX80BAQ+G60jEPXSfDCzT2lvyrIVUNNPIQqAV0QORjggq9GAx\nJHu8+stc8Upil3uVBz8Ws/Z2tKhATfGBwspBldgeBtUEMwCkw5xXLnMezDgt3Nhl\nVav31nzUKncwEVsvIN+fFfqxW/W5MIWH4v16+GropofDb7P3umJBHHQGljKWrRBk\njQWXwjxNAgMBAAECggEAAec+IojMNAqkUY2bDyvM3dw1k9rYC391prfkV18l4Jsv\ncwumSa8eb/uKyfjXNwdaydIYztDLe6+mBiS3zip6Jlmt+KSpSYKx0H86jAFvsc3b\nlPj5b6MYrXCDO7Ljqnxt7rn8fdAyOxX8C81wm0ffVwVAzZo6s1YAQxEGZ80+YvP5\nOD6AwXbr/Q2MmMtFqjrjUh0e4o8iQacmuM6i6A8Nu7RcaLH+0wMXuCpIBqwDYMeK\nAlVo4FmdlJYRvdFXrewGP2CJKRktpl4gCle0kJPCjvHjdhqvD3eQW0GTeQx61BXI\nk1Q6qQk9gRB4JHMoowP3jjmiX7UU9o6AJiGuIecjKQKBgQDNCb1vtsLIqXLHeDPd\nwsE8mT4E2iRn1MUhH40MHuOOnyNtPFv4u56QqxfSM+KiJzvQ4+Ila9pKhenbFBQ/\ntSNQHMufSODObRuNgaeLCBIRF0qbSCtPTue3Y7j3sX3yb45tT9EZCnOnwnCFK6Fs\nEgv0rpBh5/zS781zMe0ojQY7TwKBgQC52JmVaPOx17mLCxbQ52YIJRHF/kfF+huU\nnlAJ+5Upkcjw/SxiKNyLNdf1iRIpSuQQKL9ICiBiw5mEDboYh9mtjnY27QiC8RdQ\n2zRESXteFLgFdGEbtxjURv4WXCOzsBczX4mlu7MIGMcN67ks9f5KsB8iNMK3IdgR\nFy7AdAu3owKBgHwuBfl+6wG0/rsoZeFNbtNQzGsL4ziveKTTAw3wN0nNwBsMj3dZ\nynM77DV3Dy++K1AcdH7Nj2vLJxN0Wb8r6bM/fWN/NAhRtHpDqEFgJfEL9jeNwg1K\ncLR1RTVe3jTSs6Qozy8nUVytOpCtGBrn4y3R+8gQRONMMVYvSr9gigGpAoGAJK4q\nigG/7377gQT8SNkTG1Jtsp1gfyPBI9EnTQEZzK2YcnAVvX4BIXzMFgsqyXmdj87r\nCgXtpHCksRqge0z82rN+g5K/FlENYAkTxNKYBdajB3iT3guCXAtzBOjEpyd/PMWD\nfnGQgW2ahBXdY5Fd0lH2oyK0t753TdA8iwGcem8CgYBdUnpHaNG3fU+q5sAY6AdU\nfGZJ3uYGq3THonlSjkXBs0Rj6we2Lu9MvHW4izijpQnH8NnEDcFqOMn3yRy2PwCd\ngjBhtIHGxyAeanqJjObVKQikJDQPoWZWKcZwtsJDhAkG1AUy/0M7qc0LDMdTsSXD\npGtF03OvdqFuquc3i/ZN7w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bq-to-python@monografia-395718.iam.gserviceaccount.com",
+  "client_id": "116258228779979233066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bq-to-python%40monografia-395718.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
